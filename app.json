@@ -1,14 +1,14 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "Mwtu-2.0",
+  "description": "am Mwtu Md simple whatsapp Bot with rich features",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository": "https://github.com/djalega8000/Zokou-2.0",
+  "logo": "https://telegra.ph/file/9656944885d1ecff36eed.jpg",
+  "repository": "https://github.com/Mwtutech/Mwtu-md",
   "succes_url": "/",
   "stack": "container",
   "env": {
